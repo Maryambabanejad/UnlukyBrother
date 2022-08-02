@@ -1,4 +1,4 @@
-import java.util.Random;
+import java.util.*;
 
 public class MainClass {
     public static void main(String[] args) {
@@ -8,7 +8,7 @@ public class MainClass {
 //        //10     60
 //      int y =  rand.nextInt(51) +10;
 //        System.out.println(y);
-//        int z = rand.nextInt(201)+100;  // 100       300
+//        int z = rand.nextInt(201)+100;  //  100      300
 //        System.out.println(z);
 //        //int a =20;
 //        //int b=50;
